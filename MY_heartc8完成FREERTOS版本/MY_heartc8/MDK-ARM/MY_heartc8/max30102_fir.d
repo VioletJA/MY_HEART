@@ -1,0 +1,11 @@
+my_heartc8\max30102_fir.o: ..\Core\Src\max30102_fir.c
+my_heartc8\max30102_fir.o: ../Core/Inc/max30102_fir.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARM\CMSIS\5.6.0\CMSIS\DSP\Include\arm_const_structs.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARM\CMSIS\5.6.0\CMSIS\DSP\Include\arm_math.h
+my_heartc8\max30102_fir.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+my_heartc8\max30102_fir.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARMCC\Bin\..\include\float.h
+my_heartc8\max30102_fir.o: E:\keil5\ARM\ARM\CMSIS\5.6.0\CMSIS\DSP\Include\arm_common_tables.h
