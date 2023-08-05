@@ -11,3 +11,5 @@
 当然编写了两套代码，先编写了一套裸机开发，测试能够完成所有功能、之后移植了一套FreeRTOS的，都可以运行。<br><br>
 
 ![image](https://github.com/VioletJA/MY_HEART/blob/main/prg_img/IMG_20230804_234926.jpg)<br>
+
+详细步骤见：https://blog.csdn.net/zerokingwang/article/details/132117993?spm=1001.2014.3001.5501
